@@ -4,19 +4,12 @@
 :sparkles:
 :tada:
 
-*AI course M1
+1. Item 1
 
-*AI course M2
- 
-*AI course M3
-    
-*AI course M4
+2. Item 2
 
-    *Enterprise Design Thinking
+3. Item 3
 
-    *Cloud Computing
-         
-    *Data Science / Cyberseurity
-   
-    *Artificial Intelligence / Blockchain
-   
+   1. Item 3a
+
+   2. Item 3b
