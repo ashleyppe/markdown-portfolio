@@ -1,1 +1,1 @@
-[A beautiful image] (http://github.com)
+[A beautiful image](https://github.com)
